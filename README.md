@@ -1,5 +1,5 @@
 # Vehicle-AngularProject
- EmployeeDashboard : I have made use of  Angular's main features like : 
+Vehicle-AngularProject :Made use of  Angular's features like : 
  1.Routing 
  2.Used BOOTSTRAP for various classes -Responsiveness n different view ports. 
  3.Used typefaces and weights, colours, rounded corners, borders and drop shadows in CSS.
