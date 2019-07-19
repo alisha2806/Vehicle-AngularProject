@@ -1,0 +1,27 @@
+.vehicle-data {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.image-data {
+  width: 100%;
+  height: auto;
+  padding-bottom: 2rem;
+}
+.vehicle-info {
+  padding: 0.4rem;
+  text-align: center;
+}
+.vehicle-name {
+  font-weight: bold;
+}
+.vehicle-price,
+.vehicle-description {
+  font-size: 1.2rem;
+}
+.vehicle-name {
+  border-top: 0.1rem solid black;
+  border-bottom: 0.1rem solid black;
+}
+.vehicle-price {
+  padding-top: 2rem;
+}

@@ -1,0 +1,12 @@
+<div class="container">
+  <div class="row">
+    <div class="vehicle-data col-sm-6 col-md-3 col-lg-4" *ngFor="let item of vehicleData">
+        <img class="image-data" src="/assets{{item.media[0].url}}" />
+        <div class="vehicle-info">
+          <p class="vehicle-name">{{item.media[0].name}}</p>
+          <p class="vehicle-price">From {{item.price}}</p>
+          <p class="vehicle-description">{{item.description}}</p>
+        </div>
+    </div>
+  </div>
+</div>
